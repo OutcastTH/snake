@@ -11,7 +11,7 @@ namespace snake
         static void Main(string[] args)
         {
             Point p1 = new Point(2, 3, '*');
-            /*p1.x = 1;
+            /*p1.x = 2;
             p1.y = 3;
             p1.sym = '*';*/
             p1.draw();
